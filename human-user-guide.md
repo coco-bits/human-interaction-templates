@@ -4,27 +4,34 @@ This is a template to help you create your own human user guide. The goal of a h
 ## About me
 
 ### What are some honest, unfiltered things about you?
-* *Tell us about things that others may not easily discern about you.*
+* I am an introvert
+* I enjoy sunsets/sunrises. To me, they are the gifts that keep giving and guaranteed to happen daily. 
 	
 ### What drives you nuts?
-* *Tell us about your pet peeves. These are things that put you in a bad mood.*
+* Dishonesty
+* Inconsideration
 
 ### What are your quirks?
 * *Tell us about those traits that are uniquely yours. How do you like to make decisions? How do you react to conflict?*
 		
 ### What are some things that people might misunderstand about you that you should clarify?
-* *Think of some labels people may apply to you. Tell us why those are wrong.*
+* I grew up as an only child for 17 years of my life, and still navigate the world as one. 
 
 ## About my colleagues
 
 ### What qualities do you particularly value in your colleagues?
-* *Tell us what your ideal colleague would look like. These are the people you normally seek out at work.* 
+* Helpful
+* Understanding
+* Knowledgable
+* Kind
 
 ### What do you wish colleagues didn’t do?
-* *Think of the people you avoid at work. What are their characteristics?*
+* Go along to get along
+* Beat around the bush
 	
 ### How can people earn an extra gold star with you?
-* *Think of the time when a colleague puts a smile on your face. What did they just do?*
+* Provide straight forward, actionable feedback
+* Respect my time and energy
 
 ## About my interactions
 
@@ -32,7 +39,10 @@ This is a template to help you create your own human user guide. The goal of a h
 * *Tell us how you like to help others.*
 	
 ### What’s the best way to communicate with you?
-* *If you hate emails, tell us. If you prefer a quick zoom over a 15 min write up, tell us.*
+* Order of preference:
+1. Slack
+2. Quick Zoom chat with prior Slack notification
+3. Email with Slack notification of email sent 
 	
 ### What’s the best way to convince you to do something?
 * *Tell us how we can change your mind, once it’s made up.*
